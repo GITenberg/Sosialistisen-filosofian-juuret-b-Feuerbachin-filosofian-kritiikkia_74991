@@ -1,0 +1,36 @@
+_repo: Sosialistisen-filosofian-juuret-b-Feuerbachin-filosofian-kritiikkia_74991
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Puro, H.
+    gutenberg_agent_id: '57761'
+    url: http://www.gutenberg.org/2009/agents/57761
+creator:
+  author:
+    agent_name: Engels, Friedrich
+    alias: Engels, Frederick
+    birthdate: 1820
+    deathdate: 1895
+    gutenberg_agent_id: '47'
+    url: http://www.gutenberg.org/2009/agents/47
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Friedrich_Engels
+    - https://de.wikipedia.org/wiki/Friedrich_Engels
+description: ''
+gutenberg_issued: '2024-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74991'
+language: fi
+pgterms:marc905: 20241228234122engels
+pgterms:marc906: '1922'
+pgterms:marc907: CA
+production_note: Jari Koivisto
+publication_note: '  $aSudbury, Ont. :$bVapauden kirjapaino, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sosialistisen filosofian juuret : $b Feuerbachin filosofian kritiikkiä'
+url: http://www.gutenberg.org/ebooks/74991
