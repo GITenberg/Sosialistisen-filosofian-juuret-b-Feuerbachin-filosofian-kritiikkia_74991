@@ -5,6 +5,9 @@ contributor:
     agent_name: Puro, H.
     gutenberg_agent_id: '57761'
     url: http://www.gutenberg.org/2009/agents/57761
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Engels, Friedrich
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Friedrich_Engels
     - https://de.wikipedia.org/wiki/Friedrich_Engels
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74991#Sosialistisen-filosofian-juuret-b-Feuerbachin-filosofian-kritiikkia
 gutenberg_issued: '2024-12-29'
 gutenberg_type: Text
 identifiers:
